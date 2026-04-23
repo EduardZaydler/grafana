@@ -19,7 +19,7 @@
     "react-use": "17.5.1",
     "rxjs": "7.8.1",
     "tslib": "2.7.0",
-    "uuid": "9.0.1"
+    "uuid": "14.0.0"
   },
   "devDependencies": {
     "@grafana/e2e-selectors": "11.3.0-pre",

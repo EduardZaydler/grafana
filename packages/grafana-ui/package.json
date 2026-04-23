@@ -112,7 +112,7 @@
     "tinycolor2": "1.6.0",
     "tslib": "2.7.0",
     "uplot": "1.6.31",
-    "uuid": "9.0.1"
+    "uuid": "14.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.25.2",
